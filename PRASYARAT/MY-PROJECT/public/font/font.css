@@ -1,0 +1,9 @@
+@font-face {
+    font-family: MyFont;
+    src: url('Vollkorn-VariableFont_wght.ttf');
+  }
+  
+  body {
+    font-family: MyFont, Arial, sans-serif;
+  }
+  
